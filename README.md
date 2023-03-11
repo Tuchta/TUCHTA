@@ -7,7 +7,7 @@
 
 - 🌱 Currently trying to increase skills in **Python**
 
-- 👨‍💻 My Portfolio [...](...)
+- 👨‍💻 My Portfolio [click here](https://tuchta.github.io/)
 
 - 📫 How to reach me **danieliustuchta@gmail.com**
 
