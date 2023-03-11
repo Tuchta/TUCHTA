@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Danielius</h1>
 <h3 align="center">Trying to find my way in a world of data</h3>
 
+
+
 - 📝 Learner of "Data Analytics" and "Junior Team Lead" at [Turing College](https://www.turingcollege.com/?gclid=Cj0KCQiA6rCgBhDVARIsAK1kGPIyb2nM_BMQIVDtFAMDFLBu3H1pz2jayrKcvxzSAzR3rN4C4yIFZcUaAsxzEALw_wcB)
 
 - 🌱 Currently trying to increase skills in **Python**
