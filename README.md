@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Danielius</h1>
-<h3 align="center">Trying to find my way in a world of data</h3>
 
 
 
